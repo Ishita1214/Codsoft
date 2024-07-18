@@ -23,6 +23,7 @@ Algorithms: Random Forest Classifier, Logistic Regression, Naive Bayes
 Other Tools: Jupyter Notebook for coding and visualization
 
 Learning Outcomes
+
 Gained practical experience in data cleaning, preprocessing, and exploratory data analysis.
 Enhanced my skills in building and evaluating machine learning models.
 Learned how to handle imbalanced datasets and improve model performance through feature engineering and hyperparameter tuning.
